@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2feb7b67-b783-4420-95be-41af9802f7eb",
+  "export_job_id": "ee9d80c2-c572-48f5-b9af-668c88ce5371",
   "id_short": 446980,
-  "published_at": "2026-04-17T19:30:40Z",
+  "published_at": "2026-04-21T19:26:07Z",
   "repo_name": "all-restaurants-in-fullerton-california-us-sample-446980",
   "sample_asset_name": "beamstation_446980_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/446980/beamstation_446980_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 35,
-  "sample_sha256": "016b446ff752c81cb29400baae6ac1a010e82aad42ecd99d054664501e3b5adb",
-  "sample_size_bytes": 145029,
-  "total_records": 359
+  "sample_records": 32,
+  "sample_sha256": "b91869441ab4997e30714f4d2cb07a8fa9b6ff897c770412bb838cb6796ac713",
+  "sample_size_bytes": 130365,
+  "total_records": 326
 }
