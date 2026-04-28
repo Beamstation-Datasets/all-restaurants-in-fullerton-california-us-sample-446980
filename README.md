@@ -1,6 +1,6 @@
 # All Restaurants in Fullerton, California, US
 
-> Free BeamStation sample export with 32 rows and masked direct-contact fields.
+> Free BeamStation sample export with 29 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `446980` |
 | Location | Fullerton |
 | Category | Restaurants |
-| Full dataset size | 326 records |
-| Free sample size | 32 records (9.82%) |
-| Last export | 2026-04-21T14:03:28.075338+00:00 |
+| Full dataset size | 294 records |
+| Free sample size | 29 records (9.86%) |
+| Last export | 2026-04-28T15:01:15.620241+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fullerton-california-us-sample-446980/releases/download/sample-latest/beamstation_446980_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
